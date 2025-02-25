@@ -1,6 +1,6 @@
-## Hi there 👋
-I'm Reshmitha Morayes, a passionate Web Developer specializing in Software Engineer.
-Welcome to my Github profile!
+## Hi there 👋 I'm Reshmitha Morayes
+## <div align="center">A passionate Web Developer | Undergraduate at SLIIT</div>  
+<div align="center">Welcome to my GitHub profile!</div>
 
 ---
 
